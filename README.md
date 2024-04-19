@@ -1,1 +1,1 @@
-# CognoRise-Infotechtask1.github
+# CognoRise Infotech task1.github
